@@ -11,18 +11,6 @@
 - CSS
 
 
-## Getting Started
-
-
-To get a local copy up and running follow these simple example steps.
-
-    1. git clone git@github.com:MkrtichSargsyan/Hello-Microverse.git
-    2. cd Hello-Microverse
-    3. git checkout -b feature
-    4. git pull origin Hello-Microverse
-    5. If you have vscode ```live-server``` installed, run it and open ```localhost:3000```
-
-
 ## Authors
 
 👤 **Mkrtich Sargsyan**
