@@ -4,7 +4,6 @@
 
 > In this project, I set up a "Hello world" repository. The goal here is to master all of the tools and best practices I learned about in previous steps. 
 
-![screenshot](./app_screenshot.png)
 
 Additional description about the project and its features.
 
@@ -13,15 +12,8 @@ Additional description about the project and its features.
 - HTML
 - CSS
 
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
 
 To get a local copy up and running follow these simple example steps.
